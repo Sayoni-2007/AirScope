@@ -41,7 +41,7 @@ Note: The included dataset is illustrative practice data, not official or live C
 3. Open the local URL displayed in the terminal.
 
 ## Project By
-Sayoni Bhatnagar
-Akanksha Chaurasia
-Manvi Tyagi
+Sayoni Bhatnagar,
+Akanksha Chaurasia,
+Manvi Tyagi.
 BCA Student
