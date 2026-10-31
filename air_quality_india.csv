@@ -1,0 +1,16 @@
+City,State,Date,AQI,PM2_5,PM10,NO2,SO2,CO,O3
+Delhi,Delhi,2025-01-01,285,125,210,45,18,2.1,32
+Delhi,Delhi,2025-02-01,265,115,195,42,16,1.9,30
+Delhi,Delhi,2025-03-01,220,95,165,38,14,1.7,28
+Mumbai,Maharashtra,2025-01-01,145,65,110,28,12,1.2,25
+Mumbai,Maharashtra,2025-02-01,120,55,95,25,10,1.0,22
+Mumbai,Maharashtra,2025-03-01,105,48,85,22,9,0.9,20
+Bengaluru,Karnataka,2025-01-01,85,35,65,18,7,0.7,18
+Bengaluru,Karnataka,2025-02-01,75,30,58,16,6,0.6,17
+Bengaluru,Karnataka,2025-03-01,68,27,52,15,5,0.5,16
+Lucknow,Uttar Pradesh,2025-01-01,235,105,175,40,15,1.8,29
+Lucknow,Uttar Pradesh,2025-02-01,210,92,160,37,13,1.6,27
+Lucknow,Uttar Pradesh,2025-03-01,190,82,145,34,12,1.4,25
+Ghaziabad,Uttar Pradesh,2025-01-01,310,140,230,50,20,2.5,35
+Ghaziabad,Uttar Pradesh,2025-02-01,285,125,210,46,18,2.2,32
+Ghaziabad,Uttar Pradesh,2025-03-01,250,110,185,42,16,1.9,30
